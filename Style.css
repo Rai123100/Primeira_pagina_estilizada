@@ -1,0 +1,44 @@
+body {background: linear-gradient(to bottom, #add8e6, #eafaff);
+}
+#titulo {
+    color: #000000;
+    border: 2px solid black;
+    width: 1000px;
+    margin: auto;
+    display: block;
+    text-align: center;
+    border-radius: 10px;
+}
+#Principal {
+    color: #cf5f5f;
+}
+#seção1 {
+    margin: auto;
+    display: block;
+    text-align: center;
+}
+.imagem{
+    border: 2px solid black;
+    margin: auto;
+    display: block;
+}
+.nome{
+    text-align: center;
+    border: solid black;
+    width: 250px;
+    border-radius: 10px;
+    margin: auto;
+    display: block;
+    text-decoration: underline;
+}.nome2{
+    text-align: center;
+    border: solid black;
+    width: 400px;
+    border-radius: 10px;
+    margin: auto;
+    display: block;
+    text-decoration: underline;
+}
+#seção{
+    text-align: center;
+}
